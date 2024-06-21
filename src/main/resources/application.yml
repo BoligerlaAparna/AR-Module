@@ -4,7 +4,7 @@ spring:
      spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password: Admin@123
+    password: Vam123!@#
     url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/employee_management_system
     username: root
   jpa:

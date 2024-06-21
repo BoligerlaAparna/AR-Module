@@ -13,7 +13,7 @@ import in.ashokit.binding.CitizenApp;
 import in.ashokit.entity.CitizenAppEntity;
 import in.ashokit.repository.CitizenAppRepository;
 
-
+@Service
 public class ArServiceImpl implements ArService {
 
 	@Autowired
